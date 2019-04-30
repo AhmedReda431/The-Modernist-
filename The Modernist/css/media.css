@@ -1,0 +1,23 @@
+/*min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{max-width:1140px*/
+@media (max-width:768px ){
+    .carousel-item img{
+            margin-right: 37px;
+    }
+    .carousel-control-next-icon{
+        margin-top: 158%;
+        position: absolute;
+        right: 4%;
+    }
+    .carousel-control-prev-icon{
+        margin-top: 158%;
+        position: absolute;
+        left: -4%;
+    }
+    .btn-primary{
+        margin-bottom: 25px
+    }
+    .hint .card{
+        margin-left: 18.5%;
+        margin-bottom: 20px
+    }
+}
